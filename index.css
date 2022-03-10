@@ -1,0 +1,19 @@
+
+html {
+  font-family: Verdana;
+  font-size: 62.5%;
+}
+
+input, button {
+  display: block;
+  margin: 10px;
+}
+
+button {
+  border-radius: 5%;
+}
+
+#resultado {
+  font-size: 1.5rem;
+  color: blue;
+}
